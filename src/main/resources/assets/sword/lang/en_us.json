@@ -1,0 +1,9 @@
+{
+
+	"item.sword.example_item": "Example Item",
+	"item.sword.example_item2": "Example Item 2",
+	
+	"block.sword.example_block": "Example Block",
+	
+	"itemGroup.ExampleCreativeTab": "Example Tab"
+}
