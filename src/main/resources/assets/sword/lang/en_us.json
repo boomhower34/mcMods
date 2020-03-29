@@ -3,6 +3,12 @@
 	"item.sword.example_item": "Example Item",
 	"item.sword.example_item2": "Example Item 2",
 	
+	"item.sword.example_sword": "Example Sword",
+	"item.sword.example_pickaxe": "Example Pickaxe",
+	"item.sword.example_axe": "Example Axe",
+	"item.sword.example_shovel": "Example Shovel",
+	"item.sword.example_hoe": "Example Hoe",
+	
 	"block.sword.example_block": "Example Block",
 	
 	"itemGroup.ExampleCreativeTab": "Example Tab"

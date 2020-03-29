@@ -1,0 +1,29 @@
+{
+	"type": "minecraft.block",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "sword:example_block"
+				},
+				{
+					"type": "minecraft:item",
+					"functions": [
+            			{
+			              "function": "minecraft:apply_bonus",
+			              "enchantment": "minecraft:fortune",
+			              "formula": "minecraft:binomial_with_bonus_count",
+			              "parameters": {
+			                "extra": 5,
+			                "probability": 0.923
+			              }
+			            }
+			         ],
+					"name": "minecraft:sand"
+				}
+			]
+		}
+	]
+}
